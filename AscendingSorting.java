@@ -19,5 +19,6 @@ class AscendingSorting{
             System.out.print(array[i] + " ");
         }
 
+
     }
 }

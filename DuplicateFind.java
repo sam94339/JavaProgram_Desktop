@@ -4,7 +4,7 @@ class DuplicateFind{
 
     public static void main(String aregs[]){
 
-        String name = "my is name is is my soumyadeep";
+        String name = "my is name is is my soumyadeep my";
         String[] splitarray = name.split(" ");
         HashSet<String> seen = new HashSet<>();
         HashSet<String> duplicate = new HashSet<>();
